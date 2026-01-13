@@ -1,1 +1,4 @@
-
+subject,grade,term_or_exam,content_scope,yccd_ref,level,item_type,quantity,points_per_item,constraints
+TOÁN,5,HK1,Ôn tập số thập phân,,M1,MCQ,6,0.5,
+TOÁN,5,HK1,Giải bài toán có lời văn,,M2,MCQ,4,0.5,
+TOÁN,5,HK1,Tình huống vận dụng,,M3,SHORT,2,1.0,
